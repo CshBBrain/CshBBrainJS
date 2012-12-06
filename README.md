@@ -10,7 +10,7 @@ CshBBrain项目地址：
 
 数码快看（http://211.100.41.186:8989/mcms/ws/index_ws_tom.html），如果你喜欢数码快看产品请到www.qook.com.cn下载iOS或Android的安装程序。由于知识产权的关系，提供的实例屏蔽了部分功能，混淆了前台代码，只支持高版本的Chrome浏览器。下面上几张图片吧：
 
-http://dl.iteye.com/upload/attachment/0077/3127/349cffa7-c0f6-3524-a3a3-6497a062ae6c.png
+<img src="http://dl.iteye.com/upload/attachment/0077/3127/349cffa7-c0f6-3524-a3a3-6497a062ae6c.png"/>
 
 http://dl.iteye.com/upload/attachment/0077/3125/1384757b-1a6c-3eb2-a660-ffa302dfd813.png
 
